@@ -12,6 +12,10 @@ Brain MRI images are used as the input image of count tumor images 260 and no tu
 YES - tumor, encoded as 1.
 NO - no tumor, encoded as 0.
 
+Data Augmentation
+
+As the input dataset size is comparatively smaller, data augmentation technique is performed to increase the traing set data. And also data augmentation helps in avoiding over training of the model. 
+
 Models implemented:
 
 1. VGG16 and VGG16 with Transfer Learning
@@ -24,19 +28,15 @@ The VGG-16 model is a 16-layer (convolution and fully connected) network built o
 TensorFlow is an open-source library for numeric computation using dataflow graphs. It was developed by Google brain team as a proprietary machine learning system based on deep learning neural networks.
 We used a special class of convolutional neural networks called MobileNets. They are optimized to be executed using minimal possible computing power.
 
-4. ResNet
+3. ResNet
 
 Identity shortcut connection that skips one or more layers. Artificial neural network (ANN) of a kind that builds on constructs known from pyramidal cells in the cerebral cortex. Residual neural networks do this by utilizing skip connections, or shortcuts to jump over some layers. Typical ResNet models are implemented with double- or triple- layer skips that contain nonlinearities (ReLU) and batch normalization in between.
 
-5. CNN
+4. CNN
 
 CNNs are powerful image processing, artificial intelligence (AI) that use deep learning to perform both generative and descriptive tasks, often using machine vison that includes image and video recognition.
 
 Other Features Implemented are:
-
-Data Augmentation
-
-As the input dataset size is comparatively smaller, data augmentation technique is performed to increase the traing set data. And also data augmentation helps in avoiding over training of the model. 
 
 Transfer Learning
 
