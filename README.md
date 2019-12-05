@@ -64,7 +64,21 @@ Transfer Learning
 
 Transfer learning is used for improvization and keep generalization rather than memorization.
 
-Model Analyses
+Result
 
 Brain tumor is one of the most critical and highly risky disease. And we have analysed the brain MRI scan images using different neural network models to understand and predict if a person has tumor or not. Accuracy achieved through Convolutional neural network is 87%, VGG is 80%, VGG16 Transfer Learning is 81%, MobileNet is 85% and ResNet is 75%.
+
+Analyses
+
+The  results  depict  that  automatic  detection  of  brain  tumor  can  be  done  more  confirmly  from  the  MRI  images  in  comparisons  to  other  tumor  detection systems available in the market. Further improvements also can be proposed with huge amount of MRI image data if available.
+
+References:
+
+1. https://link.springer.com/chapter/10.1007/978-3-642-20998-7_38
+
+2. https://ieeexplore.ieee.org/document/7725009
+
+3. https://ieeexplore.ieee.org/document/7583949
+
+
 
