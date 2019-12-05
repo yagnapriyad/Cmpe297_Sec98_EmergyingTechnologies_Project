@@ -15,14 +15,14 @@ NO - no tumor, encoded as 0.
 ![MRI Scan with Tumor](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/Y17.jpg)
 
 
-![MRI Scan with No Tumor](/Images/17 no)
+![MRI Scan with No Tumor](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/Y17.jpg/17 no)
 
 Data Augmentation
 
 As the input dataset size is comparatively smaller, data augmentation technique is performed to increase the traing set data. And also data augmentation helps in avoiding over training of the model. 
 
 
-![Some of the data augmented images](/Images/DataAugmentedImages)
+![Some of the data augmented images](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/Y17.jpg/DataAugmentedImages)
 
 Models implemented:
 
