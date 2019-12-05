@@ -31,18 +31,32 @@ Models implemented:
 It usually refers to a deep convolutional network for object recognition developed and trained by Oxford's renowned Visual Geometry Group (VGG), which achieved very good performance on the ImageNet dataset.
 The VGG-16 model is a 16-layer (convolution and fully connected) network built on the ImageNet database, which is built for the purpose of image recognition and classification.
 
+![Vgg16 Architecture](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/Vgg16Architecture.JPG)
+
+![Vgg16 Model Summary](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/Vgg16_ModelSummary.JPG)
+
 2. MobileNet
 
 TensorFlow is an open-source library for numeric computation using dataflow graphs. It was developed by Google brain team as a proprietary machine learning system based on deep learning neural networks.
 We used a special class of convolutional neural networks called MobileNets. They are optimized to be executed using minimal possible computing power.
 
+![MobileNet Architecture](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/MobileNetArchitecture.JPG)
+
+![MobileNet Model Summary](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/MobileNet_ModelSummary.JPG)
+
 3. ResNet
 
 Identity shortcut connection that skips one or more layers. Artificial neural network (ANN) of a kind that builds on constructs known from pyramidal cells in the cerebral cortex. Residual neural networks do this by utilizing skip connections, or shortcuts to jump over some layers. Typical ResNet models are implemented with double- or triple- layer skips that contain nonlinearities (ReLU) and batch normalization in between.
 
+![ResNet Architecture](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/ResNetArchitecture.JPG)
+
+![ResNet Model Summary](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/ResNet_ModelSummary.JPG)
+
 4. CNN
 
 CNNs are powerful image processing, artificial intelligence (AI) that use deep learning to perform both generative and descriptive tasks, often using machine vison that includes image and video recognition.
+
+![CNN Model Summary](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/CNN_ModelSummary.JPG)
 
 Other Features Implemented are:
 
