@@ -12,7 +12,7 @@ Brain MRI images are used as the input image of count tumor images 260 and no tu
 YES - tumor, encoded as 1.
 NO - no tumor, encoded as 0.
 
-![MRI Scan with Tumor](/Images/Y17)
+![MRI Scan with Tumor](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/Y17.jpg)
 
 
 ![MRI Scan with No Tumor](/Images/17 no)
