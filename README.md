@@ -12,11 +12,17 @@ Brain MRI images are used as the input image of count tumor images 260 and no tu
 YES - tumor, encoded as 1.
 NO - no tumor, encoded as 0.
 
-![MRI Scan with Tumor](C:\Users\HP\Downloads\brain_mri_images\Y17)
+![MRI Scan with Tumor](/Images/Y17)
+
+
+![MRI Scan with No Tumor](/Images/17 no)
 
 Data Augmentation
 
 As the input dataset size is comparatively smaller, data augmentation technique is performed to increase the traing set data. And also data augmentation helps in avoiding over training of the model. 
+
+
+![Some of the data augmented images](/Images/DataAugmentedImages)
 
 Models implemented:
 
