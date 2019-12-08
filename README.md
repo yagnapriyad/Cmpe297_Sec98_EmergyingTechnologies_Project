@@ -58,6 +58,10 @@ CNNs are powerful image processing, artificial intelligence (AI) that use deep l
 
 ![CNN Model Summary](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/CNN_ModelSummary.JPG)
 
+Implemented our model in TensorBoard
+![Tensorboard](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/TensorBoard_CNN1.jpg)
+![Tensorboard of model](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/TensorBoard_CNN2.jpg)
+
 Other Features Implemented are:
 
 Transfer Learning
