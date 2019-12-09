@@ -59,10 +59,12 @@ CNNs are powerful image processing, artificial intelligence (AI) that use deep l
 ![CNN Model Summary](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/CNN_ModelSummary.JPG)
 
 Implemented our model in TensorBoard
+
 ![Tensorboard](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/TensorBoard_CNN1.jpg)
 ![Tensorboard of model](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/TensorBoard_CNN2.jpg)
 
 Implemented our project with AutoML and analyses the metrics
+
 ![Tensorboard](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/AutoML.jpeg)
 
 Other Features Implemented are:
@@ -88,6 +90,8 @@ Extra Credit
 3. Processed data and training the model.
 
 4. Deployed the model in amazon sage maker.
+
+5. Validated data and generated accuracy predictions.
 
 References:
 
