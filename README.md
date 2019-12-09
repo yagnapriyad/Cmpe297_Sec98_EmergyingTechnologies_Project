@@ -62,6 +62,9 @@ Implemented our model in TensorBoard
 ![Tensorboard](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/TensorBoard_CNN1.jpg)
 ![Tensorboard of model](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/TensorBoard_CNN2.jpg)
 
+Implemented our project with AutoML and analyses the metrics
+![Tensorboard](https://github.com/yagnapriyad/Cmpe297_Sec98_EmergyingTechnologies_Project/blob/master/Images/AutoML.jpeg)
+
 Other Features Implemented are:
 
 Transfer Learning
@@ -75,6 +78,16 @@ Brain tumor is one of the most critical and highly risky disease. And we have an
 Analyses
 
 The  results  depict  that  automatic  detection  of  brain  tumor  can  be  done  more  confirmly  from  the  MRI  images  in  comparisons  to  other  tumor  detection systems available in the market. Further improvements also can be proposed with huge amount of MRI image data if available.
+
+Extra Credit
+
+1. Created an amazon s3 bucket to model the training data.
+
+2. Created amazon sagemaker training instance to run and mangae jupyter notebook.
+
+3. Processed data and training the model.
+
+4. Deployed the model in amazon sage maker.
 
 References:
 
